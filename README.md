@@ -5,7 +5,7 @@
 [![Built with Java](https://img.shields.io/badge/Built%20with-Java%2017.0.11-red.svg)](https://www.oracle.com/java/)
 [![Packaged with Launch4j](https://img.shields.io/badge/Packaged%20with-Launch4j%203.50-blue.svg)](https://launch4j.sourceforge.net/)
 [![Built with PowerShell](https://img.shields.io/badge/Script%20Version-PowerShell%207.5-blue.svg)](https://learn.microsoft.com/en-us/powershell/)
-
+[![Developed with IntelliJ IDEA](https://img.shields.io/badge/Developed%20with-IntelliJ%20IDEA%20Community%20Edition-orange.svg)](https://www.jetbrains.com/idea/)
 <br/>
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/)
 <br/>
@@ -28,7 +28,8 @@ In addition to the main Java `.exe` version, a **PowerShell 7.5 script alternati
   - **Java GUI Application:** Built with Java 17, packaged via Launch4j 3.50.  
   - **PowerShell Script Version:** Compatible with PowerShell 7.5 and up, offering similar functionality via command line.  
 - 💡 **Lightweight & Portable:** No installation required.  
-- 🪪 **Open Source:** Licensed under GNU GPLv3.
+- 🪪 **Open Source:** Licensed under GNU GPLv3.  
+- 🧠 **Developed in IntelliJ IDEA Community Edition** for a smooth and efficient Java development experience.
 
 ---
 
@@ -37,6 +38,7 @@ In addition to the main Java `.exe` version, a **PowerShell 7.5 script alternati
 - **Java JDK 17.0.11**  
 - **Launch4j 3.50** (for Windows `.exe` packaging)  
 - **PowerShell 7.5** (for script-based version)  
+- **IntelliJ IDEA Community Edition** (development environment)  
 - **License:** GNU General Public License v3.0  
 
 ---
@@ -58,5 +60,5 @@ If you’d like to improve detection logic, UI design, or PowerShell automation,
 
 - [Launch4j Official Site](https://launch4j.sourceforge.net/)  
 - [PowerShell 7.5 Documentation](https://learn.microsoft.com/en-us/powershell/)  
-- [GNU GPL v3 License](https://www.gnu.org/licenses/gpl-3.0)  
-- [Java 17 Documentation](https://docs.oracle.com/en/java/javase/17/)
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/)  
+- [GNU GPL v3 License](htt)
