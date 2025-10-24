@@ -5,9 +5,8 @@
 [![Built with Java](https://img.shields.io/badge/Built%20with-Java%2017.0.11-red.svg)](https://www.oracle.com/java/)
 [![Packaged with Launch4j](https://img.shields.io/badge/Packaged%20with-Launch4j%203.50-blue.svg)](https://launch4j.sourceforge.net/)
 [![Built with PowerShell](https://img.shields.io/badge/Script%20Version-PowerShell%207.5-blue.svg)](https://learn.microsoft.com/en-us/powershell/)
-[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://commonmark.org)
+
 <br/>
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/)
 <br/>
 
