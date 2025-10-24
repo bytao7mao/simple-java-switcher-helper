@@ -9,7 +9,6 @@
 <br/>
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://github.com/)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://github.com/)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/your_project_id_here)](https://www.codacy.com/)
 <br/>
 
 # 🧰 Simple Java Switcher Helper — Manage Your Java Versions Easily
